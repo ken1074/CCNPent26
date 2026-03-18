@@ -335,7 +335,7 @@ router bgp 1
  network 208.8.8.0 mask 255.255.255.0
  network 209.9.9.0 mask 255.255.255.0
 end
-@@@ISP1:
+@@@ISP1: convergeict
 CONFIG T
 router bgp 45
 bgp log-neighbor-changes
