@@ -291,7 +291,7 @@ SIOD: sh ip ospf database
 SIRO: sh ip route ospf
 
 ExamTanong: HOW DO OSPF RESET/REFRESH THE ELECTION: " PANDAK NA KAPATID"
-OSPF STATES:  clear ip ospf process    +   y
+OSPF STATES:  clear ip ospf process    +   y PNemonics (DITE ELF)
 Down
 Init
 TWo-way
